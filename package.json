@@ -1,6 +1,6 @@
 {
-  "name": "rollup-plugin-analyzer",
-  "version": "3.2.3",
+  "name": "cb-rollup-plugin-analyzer",
+  "version": "3.2.2-2",
   "description": "Mad metrics for your rollup bundles, know all the things",
   "engines": {
     "node": ">=8.0.0"
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/doesdev/rollup-plugin-analyzer.git"
+    "url": "git+https://github.com/ICodeMyOwnLife/cb-rollup-plugin-analyzer.git"
   },
   "keywords": [
     "rollup",
@@ -40,12 +40,8 @@
     "analyzer",
     "bloat"
   ],
-  "author": "Andrew Carpenter (https://github.com/doesdev)",
+  "author": "Hien CB",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/doesdev/rollup-plugin-analyzer/issues"
-  },
-  "homepage": "http://rollup-plugin-analyzer.doesdev.com/",
   "devDependencies": {
     "husky": "^4.2.3",
     "mvt": "4.1.0",
